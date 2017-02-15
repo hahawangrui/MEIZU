@@ -1,0 +1,292 @@
+#all{
+	width: 1903px;
+	height: auto;
+}
+#header{
+	width: 1200px;
+	height: 44px;
+	padding-top: 24px;
+	margin: 0 auto;
+}
+#header a{
+	display: block;
+	width: 110px;
+	height: 20px;
+	background: url(../img/logo-new-toggle_294da7f.png);
+}
+#content{
+	width: 1903px;
+	height: 750px;
+	background: url(../img/banner.png);
+}
+#log-box2{
+	/*display: none;*/
+	position: relative;
+	width: 298px;
+	height: 443px;
+    position: absolute;
+    top: 26%;
+    right: 380px;
+    background-color: #FFF;
+    padding: 35px 35px 10px;
+    border-radius: 2px;
+}
+#title{
+	width: 300px;
+	height: 24px;
+	margin-top: 35px;
+}
+#meizuid1{
+	float: left;
+	width: 302px;
+	height: 24px;
+	font-size: 18px;
+	color: #32A5E7;
+	text-align: center;
+}
+#ID{
+	position: absolute;
+	top: 138px;
+    left: 43px;
+	width: 278px;
+	height: 46px;
+	border: 1px solid gray;
+}
+#mima{
+	position: absolute;
+	top: 212px;
+    left: 43px;
+	width: 278px;
+	height: 46px;
+	border: 1px solid gray;
+}
+#prefix{
+	float: left;
+	width: 61px;
+	height: 20px;
+	margin-top: 12px;
+}
+#prefix p{
+	float: left;
+	width: 36px;
+	height: 18px;
+	line-height: 18px;
+	text-align: center;
+	font-size: 14px;
+	color: gray;
+}
+#prefix i{
+	float: left;
+	margin-top: 5px;
+	width: 14px;
+	height: 8px;
+	background: url(../img/arrow-down.png);
+}
+#id-input{
+	float: left;
+	width: 204px;
+	height: 18px;
+	outline: none;
+	border: 0;
+	margin-top: 11px;
+	text-align: center;
+	color: gray;
+	border-left: 1px solid gray;
+}
+#mima-input{
+	float: left;
+	width: 160px;
+	height: 18px;
+	padding: 14px 0;
+	border: 0;
+	margin-left: 5px;
+	outline: none;
+	color: gray;
+}
+#mima a{
+	float: left;
+	width: 100px;
+	height: 18px;
+	line-height: 18px;
+	font-size: 14px;
+	text-align: center;
+	border-left: 1px solid gray;
+	margin-top: 12px;
+	color: gray;
+}
+#mymima{
+	position: absolute;
+	top: 250px;
+    left: 43px;
+	width: 278px;
+	height: 46px;
+}
+#zhuyi{
+	margin-top: 20px;
+	width: 288px;
+	height: 32px;
+	font-size: 14px;
+	color: gray;
+	line-height: 16px;
+	padding-left: 10px;
+}
+#zhuyi a{
+	color: #32A5E7;
+}
+#set-mima{
+	width: 278px;
+	height: 46px;
+	margin-left: 10px;
+    margin-top: 191px;
+    color: gray;
+}
+#tijiao2{
+	width: 278px;
+	border: none;
+	height: 46px;
+	margin-left: 10px;
+    margin-top: 15px;
+    background-color: #32a5e7;
+    border-radius: 5px;
+    color: white;
+    font-size: 18px;
+}
+#transferField{
+	width: 298px;
+	height: 19px;
+	margin-top: 13px;
+}
+#register{
+	float: left;
+	font-size: 14px;
+	line-height: 19px;
+	width: 28px;
+	height: 19px;
+	color: #32A5E7;
+}
+#register:hover{
+	color: #008ec7;
+}
+#footer:hover{
+	color: #008ec7;
+}
+#footer{
+	width: 1903px;
+	height: 131px;
+}
+#fb-m{
+	width: 1000px;
+	height: 100px;
+	margin: 24px auto 30px;
+}
+#fb-t{
+	width: 1000px;
+	height: 50px;
+}
+#fb-a{
+	float: left;
+	width: 495px;
+	height: 20px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+#fb-a a{
+	display: inline-block;
+	width: 65px;
+	height: 19px;
+	font-size: 14px;
+	color: black;
+}
+#fb-a i{
+	display: inline-block;
+	background-color: #888;
+    margin: 0px 5px;
+    width: 1px;
+    height: 10px;
+}
+#lanuage{
+	background: url(../img/base.png);
+	background-position: -83px -150px;
+}
+#tel{
+	margin-left: 15px;
+	float: left;
+	width: 252px;
+	height: 19px;
+	padding-top: 16px;
+	padding-bottom: 15px;
+	font-size: 14px;
+	color: black;
+}
+#tel a{
+	display: inline-block;
+	width: 64px;
+	height: 19px;
+	color: white;
+    background-color: #32a5e7;
+    border-radius: 2px;
+    margin-left: 14px;
+    text-align: center;
+    line-height: 19px;
+}
+#con-type{
+	float: right;
+	width: 134px;
+	height: 40px;
+	padding-top: 10px;
+}
+#ct-1{
+	float: left;
+	width: 32px;
+	height: 32px;
+	background: url(../img/base.png);
+	background-position: -218px -91px;
+}
+#ct-1:hover{
+	background-position: -218px -137px;
+}
+#ct-2{
+	position: relative;
+	float: left;
+	margin-left: 15px;
+	width: 32px;
+	height: 32px;
+	background: url(../img/base.png);
+	background-position: -302px -91px;
+}
+#ct-2:hover{
+	background-position: -302px -137px;
+}
+#ct-2:hover #wx-code{
+	display: block;
+}
+#ct-3{
+	float: left;
+	margin-left: 15px;
+	width: 32px;
+	height: 32px;
+	background: url(../img/base.png);
+	background-position: -344px -91px;
+}
+#ct-3:hover{
+	background-position: -344px -137px;
+}
+#fb-b{
+	margin-top: 14px;
+	width: 1000px;
+	height: 16px;
+	color: #7f7f7f;
+	font-size: 12px;
+}
+#fb-b a{
+	color: #7f7f7f;
+}
+#fb-b a:hover{
+	color: black;
+}
+#wx-code{
+	display: none;
+	position: absolute;
+	top: -221px;
+    left: -76px;
+}

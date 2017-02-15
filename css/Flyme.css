@@ -1,0 +1,206 @@
+#all{
+	width: 1903px;
+	height: auto;
+}
+#header{
+	position: absolute;
+	top: 0;
+	width: 1903px;
+	height: 90px;
+	background-color: rgba(255,255,255,0.5);
+}
+#wrapper{
+	width: 1240px;
+	height: 90px;
+	margin: 0 auto;
+}
+#logo{
+	float: left;
+    margin: 18px 0 0 3px;
+	width: 95px;
+	font-family: "微软雅黑"; 
+	height: 40px;
+	font-size: 38px;
+	font-weight: bold;
+	color: #1788e8; 
+}
+#wrapper ul{
+	float: right;
+	width: 900px;
+	height: 90px;
+}
+#wrapper ul li{
+	float: left;
+	width: 64px;
+	height: 21px;
+	margin-left: 42px;
+    margin-top: 31px;
+    line-height: 21px;
+    font-size: 16px;
+}
+#wrapper ul li a{
+	width: 59px;
+	height: 21px;
+	color: black;
+}
+#wrapper ul li a:hover{
+	color: #32a5e7;
+}
+#mid{
+	width: 1903px;
+	height: 186px;
+	padding: 40px 0 40px;
+}
+#mid ul{
+	width: 1250px;
+	height: 186px;
+	margin-left: 308px;
+}
+#mid ul li{
+	float: left;
+	width: 236px;
+	height: 186px;
+	margin: 0 7px;
+}
+#mid ul li a{
+	display: inline-block;
+	width: 236px;
+	height: 186px;
+}
+#pic1{
+	background: url(../img/positiondata_bigimage_16.png);
+}
+#pic2{
+	background: url(../img/positiondata_bigimage_2.png);
+}
+#pic3{
+	background: url(../img/positiondata_bigimage_3.png);
+}
+#pic4{
+	background: url(../img/positiondata_bigimage_37.png);
+}
+#pic5{
+	background: url(../img/positiondata_bigimage_4.png);
+}
+#footer{
+	width: 1903px;
+	height: 131px;
+}
+#fb-m{
+	width: 1000px;
+	height: 100px;
+	margin: 24px auto 30px;
+}
+#fb-t{
+	width: 1000px;
+	height: 50px;
+}
+#fb-a{
+	float: left;
+	width: 495px;
+	height: 20px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+#fb-a a{
+	display: inline-block;
+	width: 65px;
+	height: 19px;
+	text-align: center;
+	font-size: 14px;
+	color: #999;
+}
+#fb-a i{
+	display: inline-block;
+	background-color: #888;
+    margin: 0px 5px;
+    width: 1px;
+    height: 10px;
+}
+#lanuage{
+	background: url(../img/base.png);
+	background-position: -83px -150px;
+}
+#tel{
+	margin-left: 15px;
+	float: left;
+	width: 252px;
+	height: 19px;
+	padding-top: 16px;
+	padding-bottom: 15px;
+	font-size: 14px;
+	color: #999;
+}
+#tel a{
+	display: inline-block;
+	width: 64px;
+	height: 19px;
+	color: white;
+    background-color: #32a5e7;
+    border-radius: 2px;
+    margin-left: 14px;
+    text-align: center;
+    line-height: 19px;
+}
+#con-type{
+	float: right;
+	width: 134px;
+	height: 40px;
+	padding-top: 10px;
+}
+#ct-1{
+	float: left;
+	width: 32px;
+	height: 32px;
+	background: url(../img/base.png);
+	background-position: -218px -91px;
+}
+#ct-1:hover{
+	background-position: -218px -137px;
+}
+#ct-2{
+	position: relative;
+	float: left;
+	margin-left: 15px;
+	width: 32px;
+	height: 32px;
+	background: url(../img/base.png);
+	background-position: -302px -91px;
+}
+#ct-2:hover{
+	background-position: -302px -137px;
+}
+#ct-2:hover #wx-code{
+	display: block;
+}
+#ct-3{
+	float: left;
+	margin-left: 15px;
+	width: 32px;
+	height: 32px;
+	background: url(../img/base.png);
+	background-position: -344px -91px;
+}
+#ct-3:hover{
+	background-position: -344px -137px;
+}
+#fb-b{
+	margin-top: 14px;
+	width: 1000px;
+	height: 16px;
+	color: #7f7f7f;
+	font-size: 12px;
+	text-align: center;
+}
+#fb-b a{
+	color: #7f7f7f;
+}
+#fb-b a:hover{
+	color: black;
+}
+#wx-code{
+	display: none;
+	position: absolute;
+	top: -221px;
+    left: -76px;
+}
